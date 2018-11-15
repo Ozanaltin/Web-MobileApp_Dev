@@ -6,8 +6,8 @@ public class Lab5Q2 {
 		 Scanner input = new Scanner(System.in);
 	        System.out.print("Enter a word or sentence");
 	        String s = input.nextLine();
-	        char vowels[] = {'a','e','i','o','u'};
-	        for(int i=0;i<s.length();) {
+	        char vowels[] = {'a','e','i','o','u','A','E','I','O','U'};
+	        for(int i=0;i<s.length()-1;) {
 	        	for (int z=0;z<vowels.length;) {   		
 	        	if(s.charAt(i)== vowels[z]) {
 	        		counter++;
