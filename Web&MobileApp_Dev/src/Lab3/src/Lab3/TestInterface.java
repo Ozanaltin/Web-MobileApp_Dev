@@ -1,3 +1,4 @@
+package Lab3.src.Lab3;
 class TestInterface{  
 	public static void main(String[] args){  
 		Scotia s = new Scotia(); // Creating Scotia class constructor instance to apply Scotia class method.

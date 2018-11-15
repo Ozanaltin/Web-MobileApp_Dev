@@ -1,4 +1,4 @@
-package Lab3.src.copy;
+package Lab3.src.Lab3;
 class GravityCalculator {
     public static void main(String[] arguments) {
         double gravity = -9.81;  // Earth's gravity in m/s^2

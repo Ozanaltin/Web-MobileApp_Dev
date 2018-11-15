@@ -1,3 +1,4 @@
+package Lab3.src.Lab3;
 public class Marathon {
     public static void main(String[] args) {
         String[] names = {

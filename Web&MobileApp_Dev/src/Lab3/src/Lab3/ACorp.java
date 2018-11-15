@@ -1,3 +1,4 @@
+package Lab3.src.Lab3;
 public class ACorp {
     public static void main(String[] args) {
         Employee employee1 = new Employee(); //Creating Employee constructor instance

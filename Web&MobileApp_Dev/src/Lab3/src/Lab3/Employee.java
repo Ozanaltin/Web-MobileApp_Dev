@@ -1,4 +1,4 @@
-package Lab3.src.copy;
+package Lab3.src.Lab3;
 class Employee{
 
     private double payPerHour; //regular hourly wage
